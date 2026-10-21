@@ -1,1 +1,1 @@
-basics
+exercices de shell
