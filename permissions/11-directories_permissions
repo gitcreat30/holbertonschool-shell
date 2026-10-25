@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g+x,o+x permissions/{dir0,dir2,dir3}
+chmod g+x,o+x {dir0,dir2,dir3}
